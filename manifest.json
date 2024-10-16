@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Save Links",
+  "version": "1.0",
+  "description": "Save all links to the needed files",
+  "action": {
+    "default-icon": "icon.png",
+    "default-popup": "index.html",
+    "default-title": "Save Link"
+  },
+  "permissions": ["tabs"]
+}
